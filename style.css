@@ -1,0 +1,51 @@
+.text_color{
+    text-align: center;
+    color:#ececec;
+    
+}
+
+.text_colorr{
+    text-align: center;
+    color:#af2a2a;
+    font-size: 20px;
+   
+ }
+    
+ .glasss{
+    
+   text-align: center;
+  
+   
+ }
+ /* .search_ber{
+   padding: 10px 200px;
+   border-radius: 25px;
+   border: 0px solid;
+   
+ }
+ .search_berr{
+    margin-right: -312px;
+    color: 2px solid #EB8C5B;
+ } 
+  */
+  .aaaa{
+    padding: 10px 10px;
+  }
+  .searc_berup{
+    padding: 10px 29px solid #EB8C5B;
+  }
+
+  label.form-label {
+    font-size: 18px;
+    color: #666;
+    font-weight: 700;
+}
+
+input#contorl-inpud {
+    border-radius: 20px;
+}
+
+input#input-password {
+    padding: 15px 20px;
+    border-radius: 20px;
+}
